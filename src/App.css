@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.todo-background {
+  background-image: url("../public/todo4.png");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
 }
