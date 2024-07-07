@@ -5,8 +5,6 @@ export function ToDoHome() {
             <h1 className='text-start me-5'>To-Do Appointments</h1>
             <div>
                 <div className="d-flex">
-                    {/* <Link to="/register" className="btn btn-outline-dark me-2">Register User</Link> */}
-                    {/* <Link to="/login" className="btn btn-outline-dark">Login User</Link> */}
                     <div className="card me-3">
                         <div className="card-header">
                             <div className="card-body">
